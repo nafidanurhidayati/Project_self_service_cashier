@@ -85,9 +85,9 @@ Add 2 items using the `add_item` method.
 ## Test Case 1
 `print("Test Case 1")`
 
-`trnsct_123.add_item(["Ayam Goreng", 2, 20000])`
-`trnsct_123.add_item(["Pasta Gigi", 3, 15000])`
-`print("Item yang dibeli adalah: ", trnsct_123.items)`
+`user.add_item(["Ayam Goreng", 2, 20000])`
+`user.add_item(["Pasta Gigi", 3, 15000])`
+`print("Item yang dibeli adalah: ", user.items)`
 
 **The output is:**<br />
 ![image](img/Test_Case_1.png)
@@ -99,8 +99,8 @@ Deletes items using the `delete_item` method.
 ## Test Case 2
 `print("Test Case 2")`
 
-`trnsct_123.delete_item("Pasta Gigi")`
-`print("Item yang dibeli adalah: ", trnsct_123.items)`
+`user.delete_item("Pasta Gigi")`
+`print("Item yang dibeli adalah: ", user.items)`
 
 **The output is:**<br />
 ![image](img/Test_Case_2.png)
