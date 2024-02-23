@@ -65,8 +65,6 @@ user.check_order()
 
 # Testing method add_item
 # Menambah item kedalam Transaction
-user.add_item("Ayam Goreng", 2, 20000)
-user.add_item("Pasta Gigi", 3, 15000)
 user.add_item("Mainan Mobil", 1, 200000)
 user.add_item("Mie Instant", 5, 3000)
 
@@ -78,3 +76,30 @@ user.check_order()
 # Menampilkan harga akhir yang harus dibayar
 user.total_price()
 
+"""Test 5"""
+
+# Testing method delete_item
+# Menghapus baris item dalam Transaction
+user.update_item_name("Mie Instant", "Sabun")
+
+# Testing method check_order
+# Memeriksa daftar transaksi
+user.check_order()
+
+# Testing method total_price
+# Menampilkan harga akhir yang harus dibayar
+user.total_price()
+
+"""Test 6"""
+
+# Testing method delete_item
+# Menghapus baris item dalam Transaction
+user.update_item_qty("Mainan Mobil", 3)
+
+# Testing method check_order
+# Memeriksa daftar transaksi
+user.check_order()
+
+# Testing method total_price
+# Menampilkan harga akhir yang harus dibayar
+user.total_price()
