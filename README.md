@@ -80,36 +80,21 @@ User
 
 # Test Case
 ## Test Case 1
-Add 2 items using the `add_item` method.
-
-**The input is:**<br />
-## Test Case 1
-`print("Test Case 1")`
-
-`user.add_item(["Ayam Goreng", 2, 20000])`
-`user.add_item(["Pasta Gigi", 3, 15000])`
-`print("Item yang dibeli adalah: ", user.items)`
+Menambahkan 2 item menggunakan method `add_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
 **The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/19150638-e631-4347-bddc-c53fe4cb4bce)
 
 
 ## Test Case 2
-Deletes items using the `delete_item` method.
-
-**The input is:**<br />
-## Test Case 2
-`print("Test Case 2")`
-
-`user.delete_item("Pasta Gigi")`
-`print("Item yang dibeli adalah: ", user.items)`
+Menghapus 1 item menggunakan method `delete_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
 **The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/45cdc36f-3c05-4ec9-b1e7-2ffe56c64aad)
 
 
 ## Test Case 3
-Deletes all items using the `reset_transaction` method.
+Menghapus semua item menggunakan method `rest_transaction` dan melakukan chek order menggunakan method `check_order`.
 
 **The input is:**<br />
 ## Test Case 3
@@ -122,53 +107,30 @@ Deletes all items using the `reset_transaction` method.
 
 
 ## Test Case 4
-Add shopping items with the `add_item` method.
-
-**The input is:**<br />
-## Test Case 4
-`print("Test Case 4")`
-
-## Test Case 4
-`print("Test Case 4")`
-
-`trnsct_123.add_item(["Ayam goreng", 2, 20000])`
-`trnsct_123.add_item(["Pasta gigi", 3, 15000])`
-`trnsct_123.add_item(["Mainan mobil", 1, 200000])`
-`trnsct_123.add_item(["Mie instan", 5, 3000])`
-`print(trnsct_123.items)`
-`print(" ")`
+Menambahkan 2 item lagi yang baru menggunakan method `add_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
 **The output is:**<br />
-![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/9392f374-a03e-4969-abd3-825b46304501)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/7aa7b246-cd3c-49ab-9de2-77030f2f3c70)
+
 
 
 ## Test Case 5
-Order shopping check orders using the `check_order` method.
-
-**The input is:**<br />
-## Test Case 5
-`print("Test Case 5")`
-`trnsct_123.check_order()`
+Mengudate 1 nama item menggunakan method `update_item_nama`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
 **The output is:**<br />
-![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/2d2b0f12-cbbc-4d00-b4b5-331f51e98213)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/45639ec3-49c0-42f0-8654-da425689fab3)
+
 
 
 
 ## Test Case 6
-calculate total expenditure with the `total_price` method.
-
-**The input is:**<br />
-## Test Case 6
-`print("Test Case 6")`
-
-`trnsct_123.total_price()`
-`print(" ")`
+Mengudate 1 jumlah item menggunakan method `update_item_qty`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
 **The output is:**<br />
-![image](img/Test_Case_6.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/95e9f2e8-2abe-473e-8d43-cfd24f441799)
+
 
 ## Conclusion
 
-<p>Self-service cashier system is created using the Python programming language to make it easier for customers to carry out shopping transactions. This system has some features such as adding items, updating item names, updating the number of items, updating item prices, deleting one item, deleting all items, calculating the total item price and discounts obtained, and displaying a shopping table.</p>
+<p>Modul self cashier sudah dapat dipakai untuk mempermudah pengguna atau pelanggan.  Modul dapat dikembangkan kembali dengan penambahan fitur-fitur lainnya untuk semakin mempermudah pelanggan.</p>
 
