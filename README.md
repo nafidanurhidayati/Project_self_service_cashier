@@ -96,12 +96,6 @@ Menghapus 1 item menggunakan method `delete_item`, melakukan chek order mengguna
 ## Test Case 3
 Menghapus semua item menggunakan method `rest_transaction` dan melakukan chek order menggunakan method `check_order`.
 
-**The input is:**<br />
-## Test Case 3
-`print("Test Case 3")`
-
-`trnsct_123.reset_transaction()`
-
 **The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/174f6f40-d562-4a50-8afa-a953551c9e56)
 
