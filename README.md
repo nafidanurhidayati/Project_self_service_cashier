@@ -82,28 +82,24 @@ User
 ## Test Case 1
 Menambahkan 2 item menggunakan method `add_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/19150638-e631-4347-bddc-c53fe4cb4bce)
 
 
 ## Test Case 2
 Menghapus 1 item menggunakan method `delete_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/45cdc36f-3c05-4ec9-b1e7-2ffe56c64aad)
 
 
 ## Test Case 3
 Menghapus semua item menggunakan method `rest_transaction` dan melakukan chek order menggunakan method `check_order`.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/174f6f40-d562-4a50-8afa-a953551c9e56)
 
 
 ## Test Case 4
 Menambahkan 2 item lagi yang baru menggunakan method `add_item`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/7aa7b246-cd3c-49ab-9de2-77030f2f3c70)
 
 
@@ -111,7 +107,6 @@ Menambahkan 2 item lagi yang baru menggunakan method `add_item`, melakukan chek 
 ## Test Case 5
 Mengudate 1 nama item menggunakan method `update_item_nama`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/45639ec3-49c0-42f0-8654-da425689fab3)
 
 
@@ -120,7 +115,6 @@ Mengudate 1 nama item menggunakan method `update_item_nama`, melakukan chek orde
 ## Test Case 6
 Mengudate 1 jumlah item menggunakan method `update_item_qty`, melakukan chek order menggunakan method `check_order`, dan melakukan hitung total akhir menggunakan method `total_price.
 
-**The output is:**<br />
 ![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/95e9f2e8-2abe-473e-8d43-cfd24f441799)
 
 
