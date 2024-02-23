@@ -1,22 +1,3 @@
-#### Tool Dan Referensi Github
-
-<p align='center'>
-  <a href="https://app.diagrams.net/">
-  <img src="https://img.shields.io/badge/app.diagrams.net-ff4500?style=for-the-badge&logo=google-draw.io&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://colab.research.google.com/">
-  <img src="https://img.shields.io/badge/colab.research.google.com-ff4500?style=for-the-badge&logo=google-colab&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://python.org/en/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://github.com/putusetya/LMS-Project">
-    <img src="https://img.shields.io/badge/putusetya/LMS-Project-2F 4F 4F?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://github.com/jovitakurniawan/python-LMS">
-  <img src="https://img.shields.io/badge/jovitakurniawan/python-LMS-2F 4F 4F?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://github.com/jamiebuilds/documentation-handbook">
-  <img src="https://img.shields.io/badge/jamiebuilds/documentation-handbook-2F 4F 4F?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://pacmann.io/">
-  <img src="https://img.shields.io/badge/pacmann.io/course-004263?style=for-the-badge&logo=pacmann&logoColor=white"/></a>&nbsp;&nbsp;
-</p>
-
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 
 # PROJECT CASHIER
