@@ -13,6 +13,7 @@ Andi adalah seorang pemilik supermarket besar yang berlokasi di salah satu kota 
 - tabulate
 - Google colab
 
+
 ## C. Requirement / Objectives Program
 1. Membuat objek kelas transaksi
    - `user = Transaction()`
@@ -90,7 +91,8 @@ Add 2 items using the `add_item` method.
 `print("Item yang dibeli adalah: ", user.items)`
 
 **The output is:**<br />
-![image](img/Test_Case_1.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/19150638-e631-4347-bddc-c53fe4cb4bce)
+
 
 ## Test Case 2
 Deletes items using the `delete_item` method.
@@ -103,7 +105,8 @@ Deletes items using the `delete_item` method.
 `print("Item yang dibeli adalah: ", user.items)`
 
 **The output is:**<br />
-![image](img/Test_Case_2.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/45cdc36f-3c05-4ec9-b1e7-2ffe56c64aad)
+
 
 ## Test Case 3
 Deletes all items using the `reset_transaction` method.
@@ -115,7 +118,8 @@ Deletes all items using the `reset_transaction` method.
 `trnsct_123.reset_transaction()`
 
 **The output is:**<br />
-![image](img/Test_Case_3.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/174f6f40-d562-4a50-8afa-a953551c9e56)
+
 
 ## Test Case 4
 Add shopping items with the `add_item` method.
@@ -135,7 +139,8 @@ Add shopping items with the `add_item` method.
 `print(" ")`
 
 **The output is:**<br />
-![image](img/Test_Case_4.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/9392f374-a03e-4969-abd3-825b46304501)
+
 
 ## Test Case 5
 Order shopping check orders using the `check_order` method.
@@ -146,7 +151,8 @@ Order shopping check orders using the `check_order` method.
 `trnsct_123.check_order()`
 
 **The output is:**<br />
-![image](img/Test_Case_5.png)
+![image](https://github.com/nafidanurhidayati/Project_self_service_cashier/assets/144576202/2d2b0f12-cbbc-4d00-b4b5-331f51e98213)
+
 
 
 ## Test Case 6
