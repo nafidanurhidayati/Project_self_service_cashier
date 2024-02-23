@@ -73,7 +73,7 @@ User
 
 ## Flowchart
 
-![Teks alternatif](img/Flowchart1.png)
+![Teks alternatif](img/Flowchart.png)
 
 
 
